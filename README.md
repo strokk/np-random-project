@@ -28,7 +28,7 @@ Number|Description
 
   From there I have used Jupyter notebook [2] to proceed with my investigation , and in case you require assistance installing and running Jupyter notebook to read this investigation, please follow the instructions on the reference link. [3]
 
-<p align="center"><img src="https://cdn-images-1.medium.com/max/1000/1*mc5YIn7jvo5uwuqBOUDw7Q.jpeg" width=250px></p><br><p align="center">Matplotlib</p>
+<p align="center"><img src="https://cdn-images-1.medium.com/max/1000/1*mc5YIn7jvo5uwuqBOUDw7Q.jpeg" width=250px></p>
   
   
   ----------------------------------------------------------------------------------------------------------------------------------
