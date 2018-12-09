@@ -31,6 +31,12 @@ Number|Description
 <p align="center"><img src="https://cdn-images-1.medium.com/max/1000/1*mc5YIn7jvo5uwuqBOUDw7Q.jpeg" width=250px></p>
   
   
+  For this project I have chosen a real world scenario about the admittance process of a student in a university and how many students would be accepted by the university out of all the applicants.
+
+To gather data for this project, I have used the numpy.random function to simulate data, using 4 variables related to the acceptance of a student in a University in the USA, this variables are student’s SAT score, followed by academic performance, financial statements and student's references.
+
+After simulating the data, I have explained and simulated the actual process of selecting the approved students out of all the 500 applicants.
+
   ----------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -38,11 +44,11 @@ Number|Description
 ### REFERENCES
 
 [1] https://docs.scipy.org/doc/numpy-1.14.1/reference/routines.random.html
+
 [2] http://jupyter.org/
+
 [3] http://jupyter.org/install
 
-
-### REFERENCES USED ON THE JUPYTER NOTEBOOK INVESTIGATION
-
+All references used for this project have been added in the jupyter notebook
 
 
